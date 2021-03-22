@@ -1,0 +1,15 @@
+Beginner Sword,15,5
+Beginner Shield,0,20
+Beginner Spear,20,0
+Beginner Armor,5,15
+Novice Sword,20,10
+Novice Spear,30,0
+Novice Armor,10,20
+Novice Shield,0,30
+Master Sword,30,20
+Master Spear,40,10
+Master Armor,20,30
+Master Shield,10,40
+Legendary Scythe,100,0
+Legendary Gloves,50,50
+Legendary Chainmail,0,100

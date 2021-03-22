@@ -1,0 +1,3 @@
+1,7,4,Rodri,10,10,10,1,0,0,Beginner Sword,15,5,
+1,7,4,Benny,10,10,10,1,0,0,Legendary Gloves,50,50,
+1,7,4,Queen,10,10,10,1,0,0,Legendary Gloves,50,50,2,0,9,Fjord the Brave,10,10,8,1,20,0,Beginner Spear,20,0,Legendary Gloves,50,50,

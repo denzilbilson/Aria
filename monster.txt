@@ -1,0 +1,20 @@
+Goblin,2,10,50
+Witch,10,10,10
+Doppelganger,20,20,20
+Slime,5,20,50
+Wild Hog,15,0,30
+Wolf,10,20,50
+Corrupted Unicorn,5,20,50
+Bear,20,10,30
+Troll,10,20,50
+Skeleton,2,10,50
+Golem,5,20,50
+Ifrit,10,20,50
+Killer Clown,15,15,100
+Nemean Lion,15,30,30
+Kobold King,10,10,50
+Werewolf,20,0,50
+Gorgon,30,0,10
+Lamia,15,25,70
+Demon Lord,30,30,70
+Demon King,50,50,200

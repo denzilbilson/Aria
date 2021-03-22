@@ -1,0 +1,10 @@
+w,w,w,w,w,w,w,L,L,S,L,L,L,L,L
+L,w,w,w,w,w,w,S,L,L,L,L,L,L,S
+L,w,w,w,w,w,w,L,L,S,L,L,L,L,L
+L,w,S,w,w,w,w,L,L,L,L,L,L,L,L
+L,L,L,L,w,w,w,L,L,L,L,S,L,L,L
+L,L,L,L,L,L,S,w,w,w,w,w,L,L,L
+L,L,L,L,S,L,L,w,w,w,w,w,L,L,L
+L,L,L,L,w,w,w,L,w,w,L,L,L,L,L
+L,S,L,L,w,w,L,L,L,w,L,L,L,L,L
+L,L,L,w,w,L,L,L,L,w,w,L,S,L,L
